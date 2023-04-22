@@ -16,17 +16,17 @@ Question 1 voici la capture:
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q1.png)
 
 Voici la réponse:
-https://github.com/Idris-gates/tp-securit-/blob/main/R1.png
+![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R1.png)
 
 Question 2 voici la capture
-https://github.com/Idris-gates/tp-securit-/blob/main/Q2.png
+![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q2.png)
 
 Voici la réponse:
-https://github.com/Idris-gates/tp-securit-/blob/main/R2.png
+![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R2.png)
 
 Question 3 voici la capture:
-https://github.com/Idris-gates/tp-securit-/blob/main/Q3.png
+![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q3.png)
 
 voici la réponse:
-https://github.com/Idris-gates/tp-securit-/blob/main/R3.png
+![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R3.png)
 
