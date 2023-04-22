@@ -6,27 +6,27 @@ NB: IL FAUT DISPOSER UN SERVEUR APACHE ET UN COMPILATEUR PHP POUR POUVOIR EXECUT
 Ce présent projet est fait dans le cadre du TP de sécurité informatique de la promotion L2 Génie/Math-Infor/Unikin 2021-2022
 
 Il repond à trois question du TP <br>
-La première question consiste à générer une clé
-La deuxième consiste à faire le chiffrement
-La troisième consiste à faire le déchiffrement
+La première question consiste à générer une clé <br>
+La deuxième consiste à faire le chiffrement <br>
+La troisième consiste à faire le déchiffrement <br>
 
 Ci les capture de chaque question et la réponse que l'application
 
-Question 1 voici la capture:
+Question 1 voici la capture: <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q1.png)
 
-Voici la réponse:
+Voici la réponse: <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R1.png)
 
-Question 2 voici la capture
+Question 2 voici la capture <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q2.png)
 
-Voici la réponse:
+Voici la réponse: <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R2.png)
 
-Question 3 voici la capture:
+Question 3 voici la capture: <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/Q3.png)
 
-voici la réponse:
+voici la réponse: <br>
 ![alt text](https://github.com/Idris-gates/tp-securit-/blob/main/R3.png)
 
